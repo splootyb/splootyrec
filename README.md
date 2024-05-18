@@ -18,11 +18,7 @@ This project is also still in early devffffelopment stages and is **not** produc
 
 ## Features
 
-- Free & Open Source (under the [GNU Affero General Public License v3.0](./LICENSE) license).
-
-- Fast & Efficient (depending on the hardware).
-
-- Uses SQLite to store user data.
+- Free & Open Source (under the [GNU Affero Geneh
 
 - Proper rate limiting 
 
