@@ -14,7 +14,7 @@ This project is not affiliated with [Rec Room](https://recroom.com/) in any way,
 
 The LunarRec Project is not responsible for what happens with user hosted servers.
 
-This project is also still in early development stages and is **not** production ready. Things don't work and may change in the future!
+This project is also still in early devffffelopment stages and is **not** production ready. Things don't work and may change in the future!
 
 ## Features
 
